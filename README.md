@@ -1,2 +1,3 @@
 # Git_demo
-This is a practice repo
+This is a practice repository
+
